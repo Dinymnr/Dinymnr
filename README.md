@@ -1,6 +1,9 @@
-<!-- Banner Animasi -->
+<!-- Wave Colorful Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Welcome+to+Diny's+Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Diny+Aminarti!;Web+%26+App+Design+Enthusiast;UI%2FUX+Explorer+%7C+Lifelong+Learner;Always+Curious+%F0%9F%8C%9F;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=ffb6c1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Diny+Aminarti!;Web+%26+App+Design+Enthusiast;UI%2FUX+Explorer+%7C+Lifelong+Learner;Always+Curious+%F0%9F%8C%9F;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing Animation"/>
 </p>
 
 <!-- Foto Profil -->
@@ -59,6 +62,5 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dinymnr/&title=Visitors&edge_flat=false" alt="Visitor Count"/>
 </p>
 
----
-
-⭐️ From [Dinymnr](https://github.com/Dinymnr)  
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer"/>
